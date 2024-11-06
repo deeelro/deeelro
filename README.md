@@ -8,11 +8,11 @@
   
   <br><br>
   
-  - :school: I am a `Junior`
   - :student: I’m currently learning `DAW`.
   - :technologist: I love using Software as a solution for every `Problem`.
   - :nerd_face: Always `learning new things`.
   - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]
+  - 📫 How to reach me **ivandelriotalk@gmail.com**
   - :boom: You can visit [MY WEBSITE]
 <br>
 
@@ -45,3 +45,6 @@
 <a href= "https://www.instagram.com/ivandeelro?igsh=MXBpemg2dWJjZ3UwbA==">
 <img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+
+<br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
