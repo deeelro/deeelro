@@ -39,9 +39,9 @@
 </span>
 
 ## Check out my social media
-<a href= "https://www.instagram.com/ivandeelro?igsh=MXBpemg2dWJjZ3UwbA==">
+<a href= "https://www.linkedin.com/in/ivandelriofernandez?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
 <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href= "https://www.linkedin.com/in/ivandelriofernandez?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+<a href= "https://www.instagram.com/ivandeelro?igsh=MXBpemg2dWJjZ3UwbA==">
 <img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
