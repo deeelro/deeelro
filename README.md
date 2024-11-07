@@ -6,7 +6,7 @@
   
   <picture> <img align="right" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width = 350px height=250></picture>
   
-  <br><br>
+  <br><br><br>
   
   - :student: I’m currently learning `DAW`.
   - :technologist: I love using Software as a solution for every `Problem`.
