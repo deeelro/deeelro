@@ -1,10 +1,10 @@
 <h1 align="center">Hi , I'm Ivan del Rio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<br><br>
+<br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
   
-  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+  <picture> <img align="right" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width = 350px height=270></picture>
   
   <br><br>
   
@@ -15,6 +15,8 @@
   - 📫 How to reach me **ivandelriotalk@gmail.com**
   - :boom: You can visit [MY WEBSITE]
 <br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## My skills include
 
@@ -38,6 +40,9 @@
   <img src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </span>
 
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ## Check out my social media
 <a href= "https://www.linkedin.com/in/ivandelriofernandez?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
 <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -47,4 +52,5 @@
 </a>
 
 <br><br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
