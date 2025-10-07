@@ -50,8 +50,8 @@
 
 ## Check out my social media
 <p align="center">
-  <a href="https://www.linkedin.com/in/ivandelriofernandez?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkdin&theme=dark&perline=6" />
   </a>
 </p>
 
