@@ -8,12 +8,12 @@
   
   <br><br><br>
   
-  - :student: I’m currently learning `DAW`.
+  - :student: I have a higher vocational training qualification in Web Application Development (DAW).
   - :technologist: I love using Software as a solution for every `Problem`.
   - 📖​: Always `learning new things`.
-  - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]
+  - :thinking: I’m currently open for a new `job opportunity`, this is [[MY RESUME]](https://ivan-del-rio-portfolio.vercel.app/img/CV_IVAN_DEL_RIO_EN.pdf)
   - 📫 How to reach me **ivandelriotalk@gmail.com**
-  - :boom: You can visit [MY WEBSITE]
+  - :boom: You can visit [[MY WEBSITE]](https://ivan-del-rio-portfolio.vercel.app/)
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
