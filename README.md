@@ -51,7 +51,7 @@
 ## Check out my social media
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkdin&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
 </p>
 
