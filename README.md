@@ -12,7 +12,7 @@
 
 - 🎓 Higher Vocational Training in Web Application Development (DAW)
 - 🧠 Master's Degree in Big Data & Artificial Intelligence
-- :technologist: Interested in CRM consulting `CRM consulting, automation` and `scalable business solutions`.
+- :technologist: Interested in `CRM consulting, automation` and `scalable business solutions`.
 - 📫 How to reach me **ivandelriotalk@gmail.com**  
 
 <br>
