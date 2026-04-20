@@ -10,12 +10,10 @@
   
 <br><br><br>
 
-- :student: I have a higher vocational training qualification in Web Application Development (DAW).  
-- :technologist: I love using Software as a solution for every `Problem`.  
-- 📖​ Always `learning new things`.  
-- :thinking: I’m currently open for a new `job opportunity`, this is [[MY RESUME]](https://ivan-del-rio-portfolio.vercel.app/img/CV_IVAN_DEL_RIO_EN.pdf)  
+- 🎓 Higher Vocational Training in Web Application Development (DAW)
+- 🧠 Master's Degree in Big Data & Artificial Intelligence
+- :technologist: Interested in CRM consulting `CRM consulting, automation` and `scalable business solutions`.
 - 📫 How to reach me **ivandelriotalk@gmail.com**  
-- :boom: You can visit [[MY WEBSITE]](https://ivan-del-rio-portfolio.vercel.app/)  
 
 <br>
 
@@ -50,7 +48,7 @@
 
 ## Check out my social media
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/ivandelriofernandez">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
 </p>
