@@ -10,8 +10,8 @@
   
 <br><br><br>
 
-- 🎓 Higher Vocational Training in Web Application Development (DAW)
 - 🧠 Master's Degree in Big Data & Artificial Intelligence
+- 🎓 Higher Vocational Training in Web Application Development
 - :technologist: Interested in `CRM consulting, automation` and `scalable business solutions`.
 - 📫 How to reach me **ivandelriotalk@gmail.com**  
 
